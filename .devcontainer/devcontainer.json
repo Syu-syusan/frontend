@@ -40,7 +40,4 @@
       }
     }
   }
-  "mounts": [
-  "source=/home/hirano/Documents/frontend,target=/workspaces/frontend,type=bind,consistency=cached"
-]
 }
